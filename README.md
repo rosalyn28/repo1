@@ -94,9 +94,12 @@ JavaScript – For handling user interactions and functionality.
 
 # How to Use This Project
 Extract the ZIP file to a folder on your system.
+
 Ensure the following structure is maintained:
    ├── index.html
+   
    ├── style.css
+   
    ├── script.js
    
 Run the project:
