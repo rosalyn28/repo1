@@ -2,12 +2,14 @@
 The following has the overview of each project in the repository 
 A) Tic Tac Toe in Java
 B) Currency Converter in Java
+C) Calculator using Java
+
 
 
 # A) Tic Tac Toe in Java
 This is a basic Tic-Tac-Toe game in Java that two players can play in the command line. Players take turns choosing a row and column to place their mark. The game ends when a player wins by matching three marks in a row, column, or diagonal, or when the grid is full with no winner. If no one wins, the game ends in a tie.
 
-# how to start
+# How to start
 Compile the Java files using a Java compiler:
 bash javac tic_tac_toe/*.java
 
@@ -34,7 +36,7 @@ Technologies Used :
 Java (Core language for implementation)
 Java Collections (HashMap, ArrayList) (Used for storing exchange rates and currency data)
 
- # how to start
+ # How to start
  
  Folder Structure: Main.java and Converter.java are placed inside a src/ folder within the ZIP file.
  
@@ -47,5 +49,21 @@ Java Collections (HashMap, ArrayList) (Used for storing exchange rates and curre
  
  Run in IDE: Set Main.java as the entry point and click "Run" to start the currency converter. 🚀
 
- # C) 
+ # C) Calculator using Java
+This is a Java-based Calculator project containing source files for implementing calculator functionalities. The main logic seems to be handled by Calc.java and Calculator.java.
+Technologies Used
+Java – Core programming language for logic and UI.
+Swing (Possibly) – If it has a GUI interface.
 
+# How to Use This Project
+
+Extract the ZIP file into a folder.
+
+Open the project in IntelliJ IDEA or another IDE.
+
+Compile & Run:
+If using terminal, navigate the "Calculator using Java" folder and run:
+javac Calculator.java Calc.java
+java Calculator
+
+If using an IDE, set Calculator.java as the main file and run the project.
