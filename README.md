@@ -67,3 +67,21 @@ javac Calculator.java Calc.java
 java Calculator
 
 If using an IDE, set Calculator.java as the main file and run the project.
+
+# D) Login Signup Form with Html ,Css ,Javascript
+his project is a Login & Signup Form built using HTML, CSS, and JavaScript. It provides a front-end interface for user authentication.
+Technologies Used
+HTML – Structure of the form.
+CSS – Styling and layout.
+JavaScript – Handles form interactions and validations.
+
+# How to Run This Project
+Extract the ZIP file to a folder.
+
+Locate index.html inside the extracted folder.
+
+Open index.html in a web browser (Chrome, Firefox, Edge, etc.).
+
+Ensure script.js and style.css are in the same directory as index.html for proper functionality.
+
+# E)
