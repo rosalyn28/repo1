@@ -3,7 +3,8 @@ The following has the overview of each project in the repository
 A) Tic Tac Toe in Java
 B) Currency Converter in Java
 C) Calculator using Java
-
+D) Login Signup Form with Html ,Css ,Javascript
+E) Custom Date and Time Picker built using HTML, CSS, and JavaScript
 
 
 # A) Tic Tac Toe in Java
@@ -84,4 +85,27 @@ Open index.html in a web browser (Chrome, Firefox, Edge, etc.).
 
 Ensure script.js and style.css are in the same directory as index.html for proper functionality.
 
-# E)
+# E) Custom Date and Time Picker built using HTML, CSS, and JavaScript
+This project is a Custom Date and Time Picker built using HTML, CSS, and JavaScript. It provides an interactive UI for selecting dates and times with a custom-styled picker.
+Technologies Used
+HTML – For structuring the web page.
+CSS – For styling the date and time picker.
+JavaScript – For handling user interactions and functionality.
+
+# How to Use This Project
+Extract the ZIP file to a folder on your system.
+Ensure the following structure is maintained:
+   ├── index.html
+   ├── style.css
+   ├── script.js
+   
+Run the project:
+Open the index.html file in a web browser.
+The custom date and time picker will be displayed for interaction. ​​
+
+
+
+
+
+
+
