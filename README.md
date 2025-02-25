@@ -103,7 +103,9 @@ Ensure the following structure is maintained:
    ├── script.js
    
 Run the project:
+
 Open the index.html file in a web browser.
+
 The custom date and time picker will be displayed for interaction. ​​
 
 
