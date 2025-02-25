@@ -35,12 +35,16 @@ Java (Core language for implementation)
 Java Collections (HashMap, ArrayList) (Used for storing exchange rates and currency data)
 
  # how to start
+ 
  Folder Structure: Main.java and Converter.java are placed inside a src/ folder within the ZIP file.
+ 
  Extract & Open: Unzip the file and open the "Currency Converter using Java" folder in an IDE in VS Code.
+ 
  Using Terminal/Command Prompt :
  Navigate to src/ and compile:
  javac Main.java Converter.java
  java Main
+ 
  Run in IDE: Set Main.java as the entry point and click "Run" to start the currency converter. 🚀
 
  # C) 
