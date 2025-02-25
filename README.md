@@ -53,7 +53,7 @@ Java Collections (HashMap, ArrayList) (Used for storing exchange rates and curre
 This is a Java-based Calculator project containing source files for implementing calculator functionalities. The main logic seems to be handled by Calc.java and Calculator.java.
 Technologies Used
 Java – Core programming language for logic and UI.
-Swing (Possibly) – If it has a GUI interface.
+Java Swing for GUI interface.
 
 # How to Use This Project
 
