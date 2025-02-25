@@ -1,4 +1,5 @@
-# projects created using langauages like java,html,css,javascript 
+# projects created using langauages like Java,Html,Css,Javascript 
+the following has the overview of each project in the repository 
 
 # Tic Tac Toe in Java
 This is a basic Tic-Tac-Toe game in Java that two players can play in the command line. Players take turns choosing a row and column to place their mark. The game ends when a player wins by matching three marks in a row, column, or diagonal, or when the grid is full with no winner. If no one wins, the game ends in a tie.
@@ -22,3 +23,5 @@ Displays the winner and gives the option to play again or quit.
 
 Draw Detection:
 Recognizes when the game ends in a tie.
+
+#
